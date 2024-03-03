@@ -41,8 +41,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" />
-     <Folder Include="Assets/TutorialInfo/Scripts/Editor" />
+     <Compile Include="Assets/UnitySamples/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" />
+     <Folder Include="Assets/UnitySamples/TutorialInfo/Scripts/Editor" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>

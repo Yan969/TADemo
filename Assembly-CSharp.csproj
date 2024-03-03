@@ -41,13 +41,14 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
+     <Compile Include="Assets/UnitySamples/TutorialInfo/Scripts/Readme.cs" />
      <Folder Include="Assets" />
-     <Folder Include="Assets/Settings" />
-     <Folder Include="Assets/TutorialInfo/Scripts" />
-     <Folder Include="Assets/TutorialInfo/Icons" />
-     <Folder Include="Assets/TutorialInfo" />
-     <Folder Include="Assets/Scenes" />
+     <Folder Include="Assets/UnitySamples/Settings" />
+     <Folder Include="Assets/UnitySamples" />
+     <Folder Include="Assets/UnitySamples/TutorialInfo/Scripts" />
+     <Folder Include="Assets/UnitySamples/TutorialInfo/Icons" />
+     <Folder Include="Assets/UnitySamples/TutorialInfo" />
+     <Folder Include="Assets/UnitySamples/Scenes" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
